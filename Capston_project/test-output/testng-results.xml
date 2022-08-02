@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-26T23:48:43 EDT" name="Default suite" finished-at="2022-07-26T23:49:09 EDT" duration-ms="25596">
+    <groups>
+    </groups>
+    <test started-at="2022-07-26T23:48:43 EDT" name="Default test" finished-at="2022-07-26T23:49:09 EDT" duration-ms="25596">
+      <class name="craftsoftware.New_test">
+        <test-method is-config="true" signature="browserapplication()[pri:0, instance:craftsoftware.New_test@5acf93bb]" started-at="2022-07-26T23:48:43 EDT" name="browserapplication" finished-at="2022-07-26T23:48:49 EDT" duration-ms="5684" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserapplication -->
+        <test-method signature="aLanding_test()[pri:0, instance:craftsoftware.New_test@5acf93bb]" started-at="2022-07-26T23:48:49 EDT" name="aLanding_test" finished-at="2022-07-26T23:48:49 EDT" duration-ms="349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aLanding_test -->
+        <test-method signature="bRegistration_test()[pri:0, instance:craftsoftware.New_test@5acf93bb]" started-at="2022-07-26T23:48:49 EDT" name="bRegistration_test" finished-at="2022-07-26T23:48:50 EDT" duration-ms="705" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bRegistration_test -->
+        <test-method signature="clogin_test()[pri:0, instance:craftsoftware.New_test@5acf93bb]" started-at="2022-07-26T23:48:50 EDT" name="clogin_test" finished-at="2022-07-26T23:48:56 EDT" duration-ms="6114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clogin_test -->
+        <test-method signature="dproduct_test()[pri:0, instance:craftsoftware.New_test@5acf93bb]" started-at="2022-07-26T23:48:56 EDT" name="dproduct_test" finished-at="2022-07-26T23:49:08 EDT" duration-ms="11581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dproduct_test -->
+        <test-method signature="ecart_test()[pri:0, instance:craftsoftware.New_test@5acf93bb]" started-at="2022-07-26T23:49:08 EDT" name="ecart_test" finished-at="2022-07-26T23:49:08 EDT" duration-ms="830" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ecart_test -->
+        <test-method is-config="true" signature="terminate_browser()[pri:0, instance:craftsoftware.New_test@5acf93bb]" started-at="2022-07-26T23:49:08 EDT" name="terminate_browser" finished-at="2022-07-26T23:49:09 EDT" duration-ms="232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate_browser -->
+      </class> <!-- craftsoftware.New_test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
